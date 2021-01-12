@@ -1,13 +1,18 @@
 
 public class Main {
+	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
 
 	/*
 	 * @author Isac Canedo
 	 */
 
 	/*
-	 * Which letters will print when this code is run? (Quais letras ser„o impressas
-	 * quando este cÛdigo for executado?)
+	 * Which letters will print when this code is run? (Quais letras ser√£o impressas
+	 * quando este c√≥digo for executado?)
 	 * 
 	 *  1 - A, C and D
 	 *  2 - C and D
